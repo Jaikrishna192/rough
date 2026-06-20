@@ -25,7 +25,7 @@ class Logger {
 }
 
 // Test class
-public class SingletonPatternExample {
+public class SingletonPattern {
     public static void main(String[] args) {
         // Step 4: Test the singleton pattern
 

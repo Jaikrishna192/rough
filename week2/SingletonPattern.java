@@ -1,5 +1,3 @@
-
-
 // Logger class - Singleton implementation
 class Logger {
     // Step 1: Private static instance of Logger
